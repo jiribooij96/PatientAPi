@@ -1,0 +1,7 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Application\\Application",
+  "PatientApi.Common.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common",
+  "PatientApi.Modules.Patient.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Modules\\Patient.Core",
+  "PatientApi.Modules.Patient.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Modules\\Patient.Infrastructure",
+  "PatientApi.Modules.Patient.Patient, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Modules\\Patient"
+}

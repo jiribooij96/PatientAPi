@@ -1,0 +1,15 @@
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\bin\Debug\net9.0\PatientApi.Common.Common.deps.json
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\bin\Debug\net9.0\PatientApi.Common.Common.runtimeconfig.json
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\bin\Debug\net9.0\PatientApi.Common.Common.dll
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\bin\Debug\net9.0\PatientApi.Common.Common.pdb
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.csproj.AssemblyReference.cache
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.AssemblyInfoInputs.cache
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.AssemblyInfo.cs
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.sourcelink.json
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\PatientApi.Common.Common.dll
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\refint\PatientApi.Common.Common.dll
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\PatientApi.Common.Common.pdb
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\Common.genruntimeconfig.cache
+C:\Users\booij\RiderProjects\PatientApi\Common\Common\obj\Debug\net9.0\ref\PatientApi.Common.Common.dll

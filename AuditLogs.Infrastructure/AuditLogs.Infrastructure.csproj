@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>PatientApi.Modules.AuditLogs.Infrastructure</AssemblyName>
+        <RootNamespace>PatientApi.Modules.AuditLogs.Infrastructure</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\AuditLogs.Core\AuditLogs.Core.csproj" />
+      <ProjectReference Include="..\Common\Common\Common.csproj" />
+    </ItemGroup>
+
+</Project>

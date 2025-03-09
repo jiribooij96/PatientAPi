@@ -1,0 +1,369 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs\\AuditLogs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\AuditLogs.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\AuditLogs.Core.csproj",
+        "projectName": "PatientApi.Modules.AuditLogs.Core",
+        "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\AuditLogs.Core.csproj",
+        "packagesPath": "C:\\Users\\booij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\booij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\AuditLogs.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\AuditLogs.Infrastructure.csproj",
+        "projectName": "PatientApi.Modules.AuditLogs.Infrastructure",
+        "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\AuditLogs.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\booij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\booij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\AuditLogs.Core.csproj": {
+                "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Core\\AuditLogs.Core.csproj"
+              },
+              "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs\\AuditLogs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs\\AuditLogs.csproj",
+        "projectName": "PatientApi.Modules.AuditLogs.AuditLogs",
+        "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs\\AuditLogs.csproj",
+        "packagesPath": "C:\\Users\\booij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\booij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\AuditLogs.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\AuditLogs.Infrastructure\\AuditLogs.Infrastructure.csproj"
+              },
+              "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\Patient.Contracts.csproj": {
+                "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\Patient.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.3.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj",
+        "projectName": "PatientApi.Common.Common",
+        "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\booij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Common\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\booij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\Patient.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\Patient.Contracts.csproj",
+        "projectName": "PatientApi.Modules.Patient.Contracts",
+        "projectPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\Patient.Contracts.csproj",
+        "packagesPath": "C:\\Users\\booij\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\booij\\RiderProjects\\PatientApi\\Patient.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\booij\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

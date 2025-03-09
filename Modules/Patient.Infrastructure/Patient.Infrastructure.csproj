@@ -27,8 +27,4 @@
       <ProjectReference Include="..\Patient.Core\Patient.Core.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-        <Folder Include="Migrations\"/>
-    </ItemGroup>
-
 </Project>

@@ -1,0 +1,14 @@
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\bin\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.deps.json
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\bin\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.runtimeconfig.json
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\bin\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.dll
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\bin\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.pdb
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.AssemblyInfoInputs.cache
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.AssemblyInfo.cs
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.csproj.CoreCompileInputs.cache
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.sourcelink.json
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.dll
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\refint\PatientApi.Modules.AuditLogs.AuditLogs.dll
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\PatientApi.Modules.AuditLogs.AuditLogs.pdb
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\AuditLogs.genruntimeconfig.cache
+C:\Users\booij\RiderProjects\PatientApi\AuditLogs\obj\Debug\net9.0\ref\PatientApi.Modules.AuditLogs.AuditLogs.dll
