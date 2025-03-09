@@ -23,11 +23,9 @@ Each controller endpoint uses the mediatR to send a command. This is to ensure t
 The handler then handles the command and returns a response. This way the logic is contained in the handler and can be easily tested.
 Finnally the response is mapped to a dto and returned to the controller.
 
-
-
 ## Notes
 Due to time constraints i wasn't able to implement the following:
-- Bus events and consuming
+- Bus events and consuming. Ive left comments where i would fire these events.
 - Integration tests are written but not working
 - Proper API response, with pagination and unified reponses
 - The actual folder structure is not what it should be and doesnt properly reflect the sollution folder structure.
